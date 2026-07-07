@@ -1,0 +1,11 @@
+Intern_ID,Intern_Name,Department,Task_Completion_Time(Days),Project_Quality(100),Mentor_Feedback(5),Completion_Score,Mentor_Feedback(100),Overall_KPI,Performance
+101,Ali,Data Science,5,90,4.8,50.0,96.0,79.8,Good
+102,Sara,AI,7,82,4.2,25.0,84.0,65.5,Needs Improvement
+103,Ahmed,Web,4,95,5.0,62.5,100.0,86.75,Very Good
+104,Ayesha,Data Science,6,88,4.5,37.5,90.0,73.45,Good
+105,Bilal,AI,8,70,3.8,12.5,76.0,54.55,Needs Improvement
+106,Fatima,Web,3,98,4.9,75.0,98.0,91.1,Excellent
+107,Usman,AI,5,85,4.1,50.0,82.0,73.6,Good
+108,Hina,Data Science,4,91,4.7,62.5,94.0,83.35,Very Good
+109,Hamza,Web,7,78,3.9,25.0,78.0,62.1,Needs Improvement
+110,Noor,AI,6,89,4.6,37.5,92.0,74.45,Good
